@@ -2,6 +2,10 @@
 Addison Weiler, April Yu, Sean Scott
 
 
+Background
+----------
+This app was created by Addison, April, and Sean as part of their senior capstone project at Stanford University. It integrates with the Facebook API to generate a quiz on a user's friends, asking them both straight-forward questions (such as what the friend's birthday is/where she went to school) as well as more off-beat questions (such as what the friend captioned or commented on a picture). The app was fully functioning by the end of the 10-week quarter, although it had not been submitted to Facebook for approval and as such was never publicly released.
+
 Instructions
 ------------
 As the app is still in development mode (since it has not been fully checked for security), new users must be registered by us as app testers. Currently only Alex on the teaching staff is. Of Alex's friends on the app, I know XiaoSong has too restrictive security settings to allow quiz generation; the quiz on Sean should work however.
